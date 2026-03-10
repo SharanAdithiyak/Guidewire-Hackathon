@@ -207,7 +207,7 @@ AI / ML
 APIs
 
 * WeatherAPI
-* OpenWeather AQI API
+* OpenWeather AQI API  (OR) Tommorrow.io API
 * OpenStreetMap + Leaflet
 
 Payments
