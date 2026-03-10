@@ -206,10 +206,9 @@ AI / ML
 
 APIs
 
-Feature	API
-*Weather  	WeatherAPI
-*Air        OpenWeather AQI API
-*Maps	      OpenStreetMap + Leaflet
+* WeatherAPI
+* OpenWeather AQI API
+* OpenStreetMap + Leaflet
 
 Payments
 
